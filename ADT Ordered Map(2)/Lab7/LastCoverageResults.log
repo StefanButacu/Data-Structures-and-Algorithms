@@ -1,0 +1,21 @@
+[2021-06-02 14:23:28] [info] Start Program:
+Path:"E:\\Facultate\\SDA\\WorkingLabs\\Lab7\\Debug\\Lab7.exe"
+Arguments:
+Working directory: "E:\\Facultate\\SDA\\WorkingLabs\\Lab7\\Lab7\\"
+Modules: Selected: E:\Facultate\SDA\WorkingLabs\Lab7\Debug\Lab7.exe Excluded: 
+Sources: Selected: E:\Facultate\SDA\WorkingLabs\Lab7\Lab7 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\STF-PC\AppData\Local\Temp\as0mnol5.dfs 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2021-06-02 14:23:28] [info] Module: E:\Facultate\SDA\WorkingLabs\Lab7\Debug\Lab7.exe is selected because it matches selected pattern: E:\Facultate\SDA\WorkingLabs\Lab7\Debug\Lab7.exe
+[2021-06-02 14:23:28] [info] ----------------------------------------------------
+[2021-06-02 14:23:28] [info] Coverage binary generated in file: C:\Users\STF-PC\AppData\Local\Temp\as0mnol5.dfs
+[2021-06-02 14:23:28] [info] ----------------------------------------------------
