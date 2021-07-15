@@ -1,0 +1,21 @@
+[2021-03-18 19:28:52] [info] Start Program:
+Path:"E:\\Facultate\\SDA\\WorkingLabs\\Lab1\\ConsoleApplication1\\Debug\\Lab1.exe"
+Arguments:
+Working directory: "E:\\Facultate\\SDA\\WorkingLabs\\Lab1\\ConsoleApplication1\\ConsoleApplication1\\"
+Modules: Selected: E:\Facultate\SDA\WorkingLabs\Lab1\ConsoleApplication1\Debug\Lab1.exe Excluded: 
+Sources: Selected: E:\Facultate\SDA\WorkingLabs\Lab1\ConsoleApplication1\ConsoleApplication1 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\STF-PC\AppData\Local\Temp\qzbsthh3.idw 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2021-03-18 19:28:52] [info] Module: E:\Facultate\SDA\WorkingLabs\Lab1\ConsoleApplication1\Debug\Lab1.exe is selected because it matches selected pattern: E:\Facultate\SDA\WorkingLabs\Lab1\ConsoleApplication1\Debug\Lab1.exe
+[2021-03-18 19:28:52] [info] ----------------------------------------------------
+[2021-03-18 19:28:52] [info] Coverage binary generated in file: C:\Users\STF-PC\AppData\Local\Temp\qzbsthh3.idw
+[2021-03-18 19:28:52] [info] ----------------------------------------------------
